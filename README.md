@@ -5,7 +5,7 @@ https://cdn.jsdelivr.net/gh/loganoxo/file@master/img/
 
 https://raw.githubusercontent.com/loganoxo/file/master/img/
 
-jsdelivr其他子网:
+# jsdelivr其他子网:
 
 https://gcore.jsdelivr.net
 
